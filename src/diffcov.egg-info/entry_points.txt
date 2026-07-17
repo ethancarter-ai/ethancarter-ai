@@ -1,0 +1,2 @@
+[console_scripts]
+diffcov = diffcov.cli:app

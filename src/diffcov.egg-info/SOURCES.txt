@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+src/diffcov/__init__.py
+src/diffcov/cli.py
+src/diffcov/coverage_report.py
+src/diffcov/diff.py
+src/diffcov.egg-info/PKG-INFO
+src/diffcov.egg-info/SOURCES.txt
+src/diffcov.egg-info/dependency_links.txt
+src/diffcov.egg-info/entry_points.txt
+src/diffcov.egg-info/requires.txt
+src/diffcov.egg-info/top_level.txt
+tests/test_diffcov.py
