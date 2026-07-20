@@ -8,6 +8,7 @@ venv/
 dist/
 build/
 .artifacts/
+src/diffcov.egg-info/
 
 # Coverage / tests
 .coverage
