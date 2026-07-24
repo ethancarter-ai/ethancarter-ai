@@ -55,3 +55,7 @@ diffcov/
 ## Tags / keywords
 
 python, coverage, git-diff, developer-tools, cli, testing
+
+## License
+
+diffcov is released under the [MIT License](./LICENSE).

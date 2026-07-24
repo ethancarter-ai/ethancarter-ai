@@ -49,7 +49,7 @@ def parse_diff(diff_text: str) -> list[dict]:
             continue
 
         if line.startswith("@@"):
-            start_hunk(RE_HUNK.match(line) or __import__("re").Match(""))
+            start_hunk(RE_HUNK.match(line))
             i += 1
             continue
 

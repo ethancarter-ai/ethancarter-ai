@@ -8,7 +8,7 @@ version = "0.1.0"
 description = "Show coverage for your current git diff only."
 readme = "README.md"
 license = { text = "MIT" }
-authors = [{ name = "ProjectCreationAgent" }]
+authors = [{ name = "Ethan Carter" }]
 requires-python = ">=3.10"
 dependencies = [
     "typer>=0.9",
